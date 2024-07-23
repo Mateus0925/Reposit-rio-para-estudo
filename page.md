@@ -46,3 +46,22 @@
 4. **Passo 4**: [Descrição do quarto passo].
 
 ---
+
+## Depoimentos de Clientes
+
+### Cliente 1
+![Foto do Cliente 1](link_para_foto_cliente1.png)
+- **Nome**: [Nome do Cliente 1]
+- **Depoimento**: "[Depoimento do cliente 1 sobre como o produto ajudou ele]."
+
+### Cliente 2
+![Foto do Cliente 2](link_para_foto_cliente2.png)
+- **Nome**: [Nome do Cliente 2]
+- **Depoimento**: "[Depoimento do cliente 2 sobre como o produto ajudou ele]."
+
+### Cliente 3
+![Foto do Cliente 3](link_para_foto_cliente3.png)
+- **Nome**: [Nome do Cliente 3]
+- **Depoimento**: "[Depoimento do cliente 3 sobre como o produto ajudou ele]."
+
+---
