@@ -75,3 +75,22 @@
 | **Enterprise** | Solução completa para grandes empresas com suporte dedicado.             | R$ 99,99     | R$ 999,99    |
 
 ---
+
+## Entre em Contato
+
+- **Email**: [seu.email@example.com](mailto:seu.email@example.com)
+- **Telefone**: (XX) XXXX-XXXX
+- **Endereço**: [Seu Endereço]
+
+![Mapa](link_para_mapa.png)
+
+---
+
+## Redes Sociais
+
+- [Facebook](https://facebook.com/seuperfil)
+- [Twitter](https://twitter.com/seuperfil)
+- [LinkedIn](https://linkedin.com/in/seuperfil)
+- [Instagram](https://instagram.com/seuperfil)
+
+---
